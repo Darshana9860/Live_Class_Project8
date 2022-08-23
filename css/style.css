@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    
+} */
+.main-div{
+    height: 100vh;
+    background-image: url('../images/backcover.svg') ;
+    background-repeat: no-repeat;
+    
+    background-position: top right;
+    background-size:contain;
+    border: 1px solid white; 
+   
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav-items{
+    display: flex;
+    margin-top: 20px;
+}
+.nav-item{
+    margin-right: 60px;
+    font-family: Roboto;
+    font-display: swap;
+    /* font-weight: bold; */   
+}
+.signin-btn{
+    margin-right: 80px;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    color: aliceblue;
+    background: linear-gradient(to right, rgb(103, 5, 103),rgb(198, 57, 198),rgb(209, 6, 209) );
+    margin-top: 20px;
+}
+nav img{
+    margin-left: 60px;
+    height: 40px;
+    margin-top: 15px;
+}
+.intro-section{
+    display: flex;
+}
+.left-section{
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.left-section h1{
+    font-family: Roboto;
+    font-display: swap;
+    font-size: 95px;
+    margin-left: 50px;
+}
+.img3{
+    position: absolute;
+    height: 90%;
+    left: 40%;
+    top: 8%;
+    z-index: 1;
+}
+h4{
+margin-left: 60px;
+line-height: 30px;
+margin-top: 30px;
+}
+.learn-more-btn{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 190px;
+    height: 40px;
+    border-radius: 25px;
+    background: linear-gradient(to right, rgb(103, 5, 103),rgb(232, 39, 232),rgb(209, 6, 209) );
+    color: aliceblue;
+    font-family: Roboto;
+    font-display: swap;
+    border: none;
+    font-weight: bold;
+    font-size: 17px;
+}
+.img1{
+    position: absolute;
+    bottom: 100px;
+}
+.img2{
+    position: absolute;
+    bottom: 180px;
+    left: 40%;
+}
+
