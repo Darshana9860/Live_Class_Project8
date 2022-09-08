@@ -1,3 +1,8 @@
 # Live_Class_Project8
-Direct link to 8th Project :
-[Project 8](http://127.0.0.1:5500/index.html)
+
+Technologies used : HTML and CSS
+
+Time taken to complete : 3 hours
+
+![Screenshot (196)](https://user-images.githubusercontent.com/82273693/189124184-28c35c61-c41d-4436-b6a4-0a011dba64c2.png)
+
